@@ -397,6 +397,12 @@ footer .info ul:nth-child(5) img:hover {
     background-color: hsl(176, 68%, 64%);
     border-radius: 50%;
 }
+footer .attribution {
+    color: hsl(218, 8%, 80%);
+}
+footer .attribution a {
+    color: hsl(176, 68%, 64%);
+}
 /* RESPONSIVE */
 @media screen and (min-width: 500px) and (max-width: 1000px) {
     /* GENERAL */
